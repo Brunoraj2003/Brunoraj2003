@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Bruno Antonyraj
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Data Science 
+- 👋 Hi, This is Bruno Antonyraj
+- 👀 I'm interesting in Coding
+- 🌱 I’m currently pursuing Data Science 
